@@ -12,3 +12,6 @@
 
 **Class Assignment for Day - 2**<br>
 In Chapt6 PDF, Problem number 4, Page Number 43
+
+**Download Link for the E-book: Introduction to Statistical Quality Control, by Douglas Montgomery**<br>
+https://www.academia.edu/11635932/Introduction_Statistical_Quality_Control_6ed_
