@@ -10,4 +10,5 @@
 1. https://tinyurl.com/ypjsafu9 or<br>
 2. https://docs.google.com/spreadsheets/d/1PXFHi8XC3bpzexKyU1mwo41NOiuSwvf-vNSSTpWOpDA/edit?usp=sharing
 
-
+**Class Assignment for Day - 2**<br>
+In Chapt6 PDF, Problem number 4, Page Number 43
