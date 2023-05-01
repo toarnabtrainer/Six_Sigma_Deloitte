@@ -6,5 +6,8 @@
 
 **MiniTab 17 Download Link:** https://tinyurl.com/2p8t3w7m<br>
 
-** Google Sheet Link for Data Sharing:** https://tinyurl.com/ypjsafu9
+**Google Sheet Link for Data Sharing:**
+1. https://tinyurl.com/ypjsafu9 or<br>
+2. https://docs.google.com/spreadsheets/d/1PXFHi8XC3bpzexKyU1mwo41NOiuSwvf-vNSSTpWOpDA/edit?usp=sharing
+
 
